@@ -11,6 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('catalog/{id}','ProductController@getCatalog');
+
+Route::get('/product/{id}', 'ProductController@getOne');
+Route::get('/','Basecontroller@getIndex');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home')->middleware('cart');
+Route::get('{id}','Basecontroller@getStatic');
