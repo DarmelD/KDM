@@ -19,7 +19,7 @@
                 <img class="d-block img-fluid" src="img/sports2.jpg" alt="Second slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="http://placehold.it/900x350" alt="Third slide">
+                <img class="d-block img-fluid" src="img/ашкые.jpg" alt="Third slide">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

@@ -29,7 +29,7 @@
 				  </p>
                 </div>
                 <div class="card-footer">
-                  <small class="text-muted"><a href="#" class="addCart" id="good-{{$one->id}}-{{$one->price}}">Add to cart<img class="card-img-top" src="{{asset('img/cart1.jpg')}}" alt=""/></a></small>
+                  <small class="text-muted"><a href="#" class="addCart" id="good-{{$one->id}}-{{$one->price}}">Add to cart<img class="card-img-top" src="{{asset('img/cart.jpg')}}" alt=""/></a></small>
                 </div>
               </div>
             </div>

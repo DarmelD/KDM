@@ -31,7 +31,7 @@
 <th>1</th>
 <td>Summa</td>
 <td>
-<a href="#">Dellete</a>
+<a href="#">Delete</a>
 </td>
 </tr>
 
